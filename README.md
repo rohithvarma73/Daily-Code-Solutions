@@ -35,8 +35,6 @@ Each folder contains:
 
 - 📸 [Instagram](https://www.instagram.com/rohith_varma_73/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohithvarma73/)
-- 🧑‍💻 [Portfolio (Coming Soon)]
-
 ---
 
 ## 🗓 Daily Problem List
