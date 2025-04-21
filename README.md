@@ -42,7 +42,7 @@ Each folder contains:
 | Day | Problem | Link | Solution |
 |-----|---------|------|----------|
 | Day 1 | Two Sum | [LeetCode - Two Sum](https://leetcode.com/problems/two-sum/) | [🔗 Solution](./Day01/solution.py) |
-| Day 2 | Reverse String | [LeetCode - Reverse String](https://leetcode.com/problems/reverse-string/) | [🔗 Solution](./Day02) |
+| Day 2 | Reverse String | [LeetCode - Reverse String](https://leetcode.com/problems/reverse-string/) | [🔗 Solution](./Day02/solution.py) |
 | Day 3 | Contains Duplicate | [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [🔗 Solution](./Day03) |
 | Day 4 | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [🔗 Solution](./Day04) |
 
