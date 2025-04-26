@@ -45,8 +45,8 @@ Each folder contains:
 | Day 2 | Reverse String | [LeetCode - Reverse String](https://leetcode.com/problems/reverse-string/) | [🔗 Solution](./Day02/solution.py) |
 | Day 3 | Contains Duplicate | [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [🔗 Solution](./Day03/solution.py) |
 | Day 4 | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [🔗 Solution](./Day04/solution.py) |
-| Day 5 | Valid Anagram | [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [🔗 Solution](./Day05/solution.py) |
-| Day 6 | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
+| Day 5 | Median of Two Sorted Arrays | [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [🔗 Solution](./Day05/solution.py) |
+| Day 6 | Longest Palindromic Substring | [LeetCode - Valid Anagram](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
 
 > ✅ Table will grow daily!
 
