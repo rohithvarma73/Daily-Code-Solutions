@@ -47,6 +47,7 @@ Each folder contains:
 | Day 4 | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [🔗 Solution](./Day04/solution.py) |
 | Day 5 | Median of Two Sorted Arrays | [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [🔗 Solution](./Day05/solution.py) |
 | Day 6 | Longest Palindromic Substring | [LeetCode - Valid Anagram](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
+| Day 7 | Palindrome Number | [LeetCode - Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [🔗 Solution](./Day07/solution.py) |
 
 > ✅ Table will grow daily!
 
