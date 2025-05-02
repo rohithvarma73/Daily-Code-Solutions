@@ -6,7 +6,7 @@ Welcome to my **Daily Code Solutions** repository! This is my personal challenge
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm **Rohith Varma**, a 21-year-old B.Tech student from **SRM University, Chennai**, currently in my pre-final year (Graduating in 2025).  
+Hi, I'm **Rohith Varma**, a 22-year-old B.Tech student from **SRM University, Chennai**, currently in my pre-final year (Graduating in 2025).  
 I'm passionate about **JavaScript, TypeScript, React, scalable systems**, and all things **problem-solving**.  
 
 I believe consistency beats talent, and this repo is my way of showing up every day — not just for myself, but for anyone starting their coding journey. 🚀
