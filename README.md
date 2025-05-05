@@ -49,6 +49,7 @@ Each folder contains:
 | Day 6 | Longest Palindromic Substring | [LeetCode -Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
 | Day 7 | Palindrome Number | [LeetCode - Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [🔗 Solution](./Day07/solution.py) |
 | Day 8 | Binary Search | [LeetCode - Binary Search](https://leetcode.com/problems/binary-search/description/) | [🔗 Solution](./Day08/solution.py) |
+| Day 9 |Valid Parentheses | [LeetCode - Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/) | [🔗 Solution](./Day09/solution.py) |
 
 > ✅ Table will grow daily!
 
