@@ -40,17 +40,17 @@ Each folder contains:
 ## 🗓 Daily Problem List
 
 | Day | Problem | Link | Solution |
-|-----|---------|------|----------|
-| Day 1 | Two Sum | [LeetCode - Two Sum](https://leetcode.com/problems/two-sum/) | [🔗 Solution](./Day01/solution.py) |
-| Day 2 | Reverse String | [LeetCode - Reverse String](https://leetcode.com/problems/reverse-string/) | [🔗 Solution](./Day02/solution.py) |
-| Day 3 | Contains Duplicate | [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [🔗 Solution](./Day03/solution.py) |
-| Day 4 | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [🔗 Solution](./Day04/solution.py) |
-| Day 5 | Median of Two Sorted Arrays | [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [🔗 Solution](./Day05/solution.py) |
-| Day 6 | Longest Palindromic Substring | [LeetCode -Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
-| Day 7 | Palindrome Number | [LeetCode - Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [🔗 Solution](./Day07/solution.py) |
-| Day 8 | Binary Search | [LeetCode - Binary Search](https://leetcode.com/problems/binary-search/description/) | [🔗 Solution](./Day08/solution.py) |
-| Day 9 |Valid Parentheses | [LeetCode - Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/) | [🔗 Solution](./Day09/solution.py) |
-
+|--------|---------|------|----------|
+| Day 1  | Two Sum | [LeetCode - Two Sum](https://leetcode.com/problems/two-sum/) | [🔗 Solution](./Day01/solution.py) |
+| Day 2  | Reverse String | [LeetCode - Reverse String](https://leetcode.com/problems/reverse-string/) | [🔗 Solution](./Day02/solution.py) |
+| Day 3  | Contains Duplicate | [LeetCode - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [🔗 Solution](./Day03/solution.py) |
+| Day 4  | Valid Anagram | [LeetCode - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [🔗 Solution](./Day04/solution.py) |
+| Day 5  | Median of Two Sorted Arrays | [LeetCode - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [🔗 Solution](./Day05/solution.py) |
+| Day 6  | Longest Palindromic Substring | [LeetCode -Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [🔗 Solution](./Day06/solution.py) |
+| Day 7  | Palindrome Number | [LeetCode - Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [🔗 Solution](./Day07/solution.py) |
+| Day 8  | Binary Search | [LeetCode - Binary Search](https://leetcode.com/problems/binary-search/description/) | [🔗 Solution](./Day08/solution.py) |
+| Day 9  |Valid Parentheses | [LeetCode - Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/) | [🔗 Solution](./Day09/solution.py) |
+| Day 10 |Reverse Integer| [LeetCode -Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [🔗 Solution](./Day10/solution.py) |
 > ✅ Table will grow daily!
 
 ---
