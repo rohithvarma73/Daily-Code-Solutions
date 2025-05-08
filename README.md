@@ -51,6 +51,7 @@ Each folder contains:
 | Day 8  | Binary Search | [LeetCode - Binary Search](https://leetcode.com/problems/binary-search/description/) | [🔗 Solution](./Day08/solution.py) |
 | Day 9  |Valid Parentheses | [LeetCode - Valid Parantheses](https://leetcode.com/problems/valid-parentheses/description/) | [🔗 Solution](./Day09/solution.py) |
 | Day 10 |Reverse Integer| [LeetCode -Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [🔗 Solution](./Day10/solution.py) |
+| Day 11 |Remove Duplicates from Sorted Array| [LeetCode -Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [🔗 Solution](./Day11/solution.py) |
 > ✅ Table will grow daily!
 
 ---
