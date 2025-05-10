@@ -53,6 +53,7 @@ Each folder contains:
 | Day 10 |Reverse Integer| [LeetCode -Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [🔗 Solution](./Day10/solution.py) |
 | Day 11 |Remove Duplicates from Sorted Array| [LeetCode -Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [🔗 Solution](./Day11/solution.py) |
 | Day 12  | Remove Element | [LeetCode - Remove Element](https://leetcode.com/problems/remove-element/description/) | [🔗 Solution](./Day12/solution.py) |
+| Day 13  | Integer to Roman | [LeetCode - Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [🔗 Solution](./Day13/solution.py) |
 > ✅ Table will grow daily!
 
 ---
