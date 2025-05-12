@@ -55,6 +55,7 @@ Each folder contains:
 | Day12  | Remove Element | [LeetCode - Remove Element](https://leetcode.com/problems/remove-element/description/) | [🔗 Solution](./Day12/solution.py) |
 | Day13  | Integer to Roman | [LeetCode - Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [🔗 Solution](./Day13/solution.py) |
 | Day14  | Divide Two Integers | [LeetCode - Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [🔗 Solution](./Day14/solution.py) |
+| Day14  | Find the Index of the First Occurrence in a String | [LeetCode - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [🔗 Solution](./Day15/solution.py) |
 > ✅ Table will grow daily!
 
 ---
