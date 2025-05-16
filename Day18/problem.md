@@ -1,4 +1,4 @@
-# Day 17: Longest Unequal Adjacent Groups Subsequence II
+# Day 18: Longest Unequal Adjacent Groups Subsequence II
 
 **Difficulty**: Medium  
 **Topics**: Arrays, Strings  
