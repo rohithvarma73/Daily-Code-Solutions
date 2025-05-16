@@ -58,6 +58,7 @@ Each folder contains:
 | Day15 | Find the Index of the First Occurrence in a String | [LeetCode - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [🔗 Solution](./Day15/solution.py) |
 | Day16 | Count and Say | [LeetCode - Count and Say](https://leetcode.com/problems/count-and-say/description/) | [🔗 Solution](./Day16/solution.py) |
 | Day17 | Total Characters in String After Transformations II | [LeetCode - Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14) | [🔗 Solution](./Day17/solution.py) |
+| Day18 | Longest Unequal Adjacent Groups Subsequence II | [LeetCode - Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16) | [🔗 Solution](./Day18/solution.py) |
 > ✅ Table will grow daily!
 
 ---
