@@ -59,6 +59,7 @@ Each folder contains:
 | Day16 | Count and Say | [LeetCode - Count and Say](https://leetcode.com/problems/count-and-say/description/) | [🔗 Solution](./Day16/solution.py) |
 | Day17 | Total Characters in String After Transformations II | [LeetCode - Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14) | [🔗 Solution](./Day17/solution.py) |
 | Day18 | Longest Unequal Adjacent Groups Subsequence II | [LeetCode - Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16) | [🔗 Solution](./Day18/solution.py) |
+| Day19 | Sort Colours | [LeetCode - Sort Colours](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17) | [🔗 Solution](./Day19/solution.py) |
 > ✅ Table will grow daily!
 
 ---
