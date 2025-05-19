@@ -61,6 +61,7 @@ Each folder contains:
 | Day18 | Longest Unequal Adjacent Groups Subsequence II | [LeetCode - Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16) | [🔗 Solution](./Day18/solution.py) |
 | Day19 | Sort Colours | [LeetCode - Sort Colours](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17) | [🔗 Solution](./Day19/solution.py) |
 | Day20 | Painting a Grid With Three Different Colors | [LeetCode - Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18) | [🔗 Solution](./Day20/solution.py) |
+| Day22 | Type of Triangle | [LeetCode - Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19) | [🔗 Solution](./Day21/solution.py) |
 > ✅ Table will grow daily!
 
 ---
