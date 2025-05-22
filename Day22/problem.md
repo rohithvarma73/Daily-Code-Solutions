@@ -1,54 +1,55 @@
-# Day 22 - Zero Array Transformation III
+# Day 22: Next Permutation
 
-**Difficulty:** Medium  
-**Topics:** Arrays, Greedy, Interval Management
+## 📘 Problem Statement
 
----
+A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 
-You are given an integer array `nums` of length `n` and a 2D array `queries` where `queries[i] = [li, ri]`.
+For example, for `arr = [1,2,3]`, the following are all the permutations of `arr`:  
+- `[1,2,3]`  
+- `[1,3,2]`  
+- `[2,1,3]`  
+- `[2,3,1]`  
+- `[3,1,2]`  
+- `[3,2,1]`
 
-Each `queries[i]` represents the following action on `nums`:
+The **next permutation** of an array of integers is the next lexicographically greater permutation of its elements.  
+More formally, if all the permutations of the array are sorted in one container according to their lexicographical order, then the next permutation of that array is the permutation that follows it in the sorted container.  
+If such arrangement is not possible, the array must be rearranged as the lowest possible order (i.e., sorted in ascending order).
 
-Decrement the value at each index in the range `[li, ri]` in `nums` by **at most** 1.  
-The amount by which the value is decremented can be chosen independently for each index.
+## 🧠 Examples
 
-A **Zero Array** is an array with all its elements equal to `0`.
+### Example 1:
+**Input:**  
+`nums = [1,2,3]`  
+**Output:**  
+`[1,3,2]`
 
-Your task is to return the **maximum number of elements that can be removed from `queries`**, such that `nums` can still be converted to a zero array using the remaining queries.  
+### Example 2:
+**Input:**  
+`nums = [3,2,1]`  
+**Output:**  
+`[1,2,3]`
 
-If it is **not possible** to convert `nums` to a zero array even using all queries, return `-1`.
+### Example 3:
+**Input:**  
+`nums = [1,1,5]`  
+**Output:**  
+`[1,5,1]`
 
----
+## 📋 Constraints
 
-## Examples
-
-**Input:** `nums = [2, 0, 2]`, `queries = [[0, 2], [0, 2], [1, 1]]`  
-**Output:** `1`  
-**Explanation:** After removing queries[2], we can use queries[0] and [1] to decrement nums[0] and nums[2] by 1 each in both queries. Final result: `[0, 0, 0]`.
-
-**Input:** `nums = [1, 1, 1, 1]`, `queries = [[1, 3], [0, 2], [1, 3], [1, 2]]`  
-**Output:** `2`  
-**Explanation:** We can remove queries[2] and [3] and still cover all indices with exactly 1 decrement per index.
-
-**Input:** `nums = [1, 2, 3, 4]`, `queries = [[0, 3]]`  
-**Output:** `-1`  
-**Explanation:** A single query can't reduce values like 4 down to 0. Not possible to form zero array.
-
----
-
-## Constraints
-
-- `1 <= nums.length <= 1000`
-- `0 <= nums[i] <= 1000`
-- `1 <= queries.length <= 1000`
-- `0 <= li <= ri < nums.length`
+- `1 <= nums.length <= 100`
+- `0 <= nums[i] <= 100`
 
 ---
 
-## Notes
+## 🧩 Approach
 
-- This problem involves determining the minimum number of range decrements needed per index.
-- Think in terms of how many total "decrements" are needed per index and whether the available ranges cover them.
-- The solution may use greedy logic, prefix sums, and efficient simulation.
+To generate the next lexicographical permutation:
 
----
+1. Traverse the array from **right to left** to find the first index `i` such that `nums[i] < nums[i+1]`.
+2. If such an index exists:
+   - Find the smallest number **greater than** `nums[i]` from the right subarray (`nums[i+1:]`).
+   - Swap those two elements.
+3. Reverse the subarray `nums[i+1:]` to get the next smallest lexicographic order.
+4. If no such index exists (i.e., the array is in descending order), reverse the entire array to get the smallest permutation.
