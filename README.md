@@ -63,6 +63,7 @@ Each folder contains:
 | Day20 | Painting a Grid With Three Different Colors | [LeetCode - Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18) | [🔗 Solution](./Day20/solution.py) |
 | Day21 | Type of Triangle | [LeetCode - Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19) | [🔗 Solution](./Day21/solution.py) |
 | Day22 | Next Permutation | [LeetCode - Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [🔗 Solution](./Day22/solution.py) |
+| Day23 | Find the Maximum Sum of Node Values | [LeetCode - Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | [🔗 Solution](./Day23/solution.py) |
 > ✅ Table will grow daily!
 
 ---
