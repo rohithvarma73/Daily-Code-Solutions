@@ -66,6 +66,7 @@ Each folder contains:
 | Day23 | Find the Maximum Sum of Node Values | [LeetCode - Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | [🔗 Solution](./Day23/solution.py) |
 | Day24 | Find Closest Node to Given Two Nodes | [LeetCode - Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | [🔗 Solution](./Day24/solution.py) |
 | Day25 | Lexicographically Smallest Equivalent String | [LeetCode - Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [🔗 Solution](./Day25/solution.py) |
+| Day26 | Using a Robot to Print the Lexicographically Smallest String | [LeetCode - Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/) | [🔗 Solution](./Day26/solution.py) |
 > ✅ Table will grow daily!
 
 ---
