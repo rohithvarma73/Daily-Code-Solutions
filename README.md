@@ -68,6 +68,7 @@ Each folder contains:
 | Day25 | Lexicographically Smallest Equivalent String | [LeetCode - Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [🔗 Solution](./Day25/solution.py) |
 | Day26 | Using a Robot to Print the Lexicographically Smallest String | [LeetCode - Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/) | [🔗 Solution](./Day26/solution.py) |
 | Day27 | Insert Interval | [LeetCode - Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [🔗 Solution](./Day27/solution.py) |
+| Day27 | Lexicographical Numbers | [LeetCode - Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [🔗 Solution](./Day28/solution.py) |
 > ✅ Table will grow daily!
 
 ---
