@@ -70,7 +70,8 @@ Each folder contains:
 | Day27 | Insert Interval | [LeetCode - Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [🔗 Solution](./Day27/solution.py) |
 | Day28 | Lexicographical Numbers | [LeetCode - Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | [🔗 Solution](./Day28/solution.py) |
 | Day29 | K-th Smallest in Lexicographical Order | [LeetCode - K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) | [🔗 Solution](./Day29/solution.py) |
-| Day230 | Letter Combinations of a Phone Number | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [🔗 Solution](./Day30/solution.py) |
+| Day30 | Letter Combinations of a Phone Number | [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [🔗 Solution](./Day30/solution.py) |
+| Day31 | Maximum Difference Between Adjacent Elements in a Circular Array | [LeetCode - Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) | [🔗 Solution](./Day31/solution.py) |
 > ✅ Table will grow daily!
 
 ---
