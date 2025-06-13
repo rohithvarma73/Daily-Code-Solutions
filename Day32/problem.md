@@ -1,26 +1,4 @@
-# Day 31: Maximum Difference Between Adjacent Elements in a Circular Array
-
-**Difficulty:** Easy  
-**Topics:** Arrays, Math  
-**Companies:** (Premium)  
-**Hint:** Think about the circular property carefully and iterate over all adjacent pairs including the last and first elements.
-
----
-
-## Problem Statement
-
-Given a circular array `nums`, find the **maximum absolute difference** between adjacent elements.
-
-> **Note**: In a circular array, the **first and last** elements are also considered adjacent.
-
----
-
-## Examples
-
-### Example 1:
-
-**Input:**
-# Day 31: Maximum Difference Between Adjacent Elements in a Circular Array
+# Day 32: Maximum Difference Between Adjacent Elements in a Circular Array
 
 **Difficulty:** Easy  
 **Topics:** Arrays, Math  
