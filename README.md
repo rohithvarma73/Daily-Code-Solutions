@@ -73,6 +73,7 @@ Each folder contains:
 | Day30 | Letter Combinations of a Phone Number | [LeetCode - Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [🔗 Solution](./Day30/solution.py) |
 | Day31 | Maximum Difference Between Adjacent Elements in a Circular Array | [LeetCode - Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) | [🔗 Solution](./Day31/solution.py) |
 | Day32 | Minimize the Maximum Difference of Pairs | [LeetCode - Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) | [🔗 Solution](./Day32/solution.py) |
+| Day33 | Maximum Difference by Remapping a Digit | [LeetCode - Maximum Difference by Remapping a Digit]https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | [🔗 Solution](./Day33/solution.py) |
 > ✅ Table will grow daily!
 
 ---
