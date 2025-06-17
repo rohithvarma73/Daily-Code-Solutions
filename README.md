@@ -86,7 +86,7 @@ Each folder contains:
 - 🔜 Hash Maps  
 - 🔜 Recursion  
 - 🔜 Sorting & Searching  
-- 🔜 Dynamic Programming  
+- ✅ Dynamic Programming  
 - 🔜 Linked Lists  
 
 ---
