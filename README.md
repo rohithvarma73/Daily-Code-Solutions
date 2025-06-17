@@ -74,7 +74,8 @@ Each folder contains:
 | Day31 | Maximum Difference Between Adjacent Elements in a Circular Array | [LeetCode - Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) | [🔗 Solution](./Day31/solution.py) |
 | Day32 | Minimize the Maximum Difference of Pairs | [LeetCode - Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) | [🔗 Solution](./Day32/solution.py) |
 | Day33 | Maximum Difference by Remapping a Digit | [LeetCode - Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | [🔗 Solution](./Day33/solution.py) |
-| Day34 | Maximum Difference Between Increasing Elements | [LeetCode - Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [🔗 Solution](./Day33/solution.py) |
+| Day34 | Maximum Difference Between Increasing Elements | [LeetCode - Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [🔗 Solution](./Day34/solution.py) |
+| Day35 | Count the Number of Arrays with K Matching Adjacent Elements | [LeetCode - Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/) | [🔗 Solution](./Day35/solution.py) |
 > ✅ Table will grow daily!
 
 ---
