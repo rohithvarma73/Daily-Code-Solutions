@@ -57,11 +57,11 @@ Each folder contains:
 | Day14  | Divide Two Integers | [LeetCode - Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [🔗 Solution](./Day14/solution.py) |
 | Day15 | Find the Index of the First Occurrence in a String | [LeetCode - Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [🔗 Solution](./Day15/solution.py) |
 | Day16 | Count and Say | [LeetCode - Count and Say](https://leetcode.com/problems/count-and-say/description/) | [🔗 Solution](./Day16/solution.py) |
-| Day17 | Total Characters in String After Transformations II | [LeetCode - Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/?envType=daily-question&envId=2025-05-14) | [🔗 Solution](./Day17/solution.py) |
-| Day18 | Longest Unequal Adjacent Groups Subsequence II | [LeetCode - Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/?envType=daily-question&envId=2025-05-16) | [🔗 Solution](./Day18/solution.py) |
-| Day19 | Sort Colours | [LeetCode - Sort Colours](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17) | [🔗 Solution](./Day19/solution.py) |
-| Day20 | Painting a Grid With Three Different Colors | [LeetCode - Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18) | [🔗 Solution](./Day20/solution.py) |
-| Day21 | Type of Triangle | [LeetCode - Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19) | [🔗 Solution](./Day21/solution.py) |
+| Day17 | Total Characters in String After Transformations II | [LeetCode - Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) | [🔗 Solution](./Day17/solution.py) |
+| Day18 | Longest Unequal Adjacent Groups Subsequence II | [LeetCode - Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/) | [🔗 Solution](./Day18/solution.py) |
+| Day19 | Sort Colours | [LeetCode - Sort Colours](https://leetcode.com/problems/sort-colors/description/) | [🔗 Solution](./Day19/solution.py) |
+| Day20 | Painting a Grid With Three Different Colors | [LeetCode - Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/) | [🔗 Solution](./Day20/solution.py) |
+| Day21 | Type of Triangle | [LeetCode - Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/) | [🔗 Solution](./Day21/solution.py) |
 | Day22 | Next Permutation | [LeetCode - Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [🔗 Solution](./Day22/solution.py) |
 | Day23 | Find the Maximum Sum of Node Values | [LeetCode - Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/) | [🔗 Solution](./Day23/solution.py) |
 | Day24 | Find Closest Node to Given Two Nodes | [LeetCode - Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/) | [🔗 Solution](./Day24/solution.py) |
@@ -76,6 +76,7 @@ Each folder contains:
 | Day33 | Maximum Difference by Remapping a Digit | [LeetCode - Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/) | [🔗 Solution](./Day33/solution.py) |
 | Day34 | Maximum Difference Between Increasing Elements | [LeetCode - Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [🔗 Solution](./Day34/solution.py) |
 | Day35 | Count the Number of Arrays with K Matching Adjacent Elements | [LeetCode - Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/) | [🔗 Solution](./Day35/solution.py) |
+| Day36 | Divide Array Into Arrays With Max Difference | [LeetCode - Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | [🔗 Solution](./Day36/solution.py) |
 > ✅ Table will grow daily!
 
 ---
