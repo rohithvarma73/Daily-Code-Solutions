@@ -77,6 +77,7 @@ Each folder contains:
 | Day34 | Maximum Difference Between Increasing Elements | [LeetCode - Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/) | [🔗 Solution](./Day34/solution.py) |
 | Day35 | Count the Number of Arrays with K Matching Adjacent Elements | [LeetCode - Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/) | [🔗 Solution](./Day35/solution.py) |
 | Day36 | Divide Array Into Arrays With Max Difference | [LeetCode - Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | [🔗 Solution](./Day36/solution.py) |
+| Day37 | Partition Array Such That Maximum Difference Is K | [LeetCode - Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) | [🔗 Solution](./Day37/solution.py) |
 > ✅ Table will grow daily!
 
 ---
