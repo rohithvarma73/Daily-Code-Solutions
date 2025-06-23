@@ -79,6 +79,7 @@ Each folder contains:
 | Day36 | Divide Array Into Arrays With Max Difference | [LeetCode - Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | [🔗 Solution](./Day36/solution.py) |
 | Day37 | Partition Array Such That Maximum Difference Is K | [LeetCode - Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) | [🔗 Solution](./Day37/solution.py) |
 | Day38 | Minimum Deletions to Make String K-Special | [LeetCode - Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/) | [🔗 Solution](./Day38/solution.py) |
+| Day39 | Sum of k-Mirror Numbers | [LeetCode - Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | [🔗 Solution](./Day39/solution.py) |
 > ✅ Table will grow daily!
 
 ---
