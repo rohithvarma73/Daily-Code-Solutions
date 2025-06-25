@@ -80,7 +80,8 @@ Each folder contains:
 | Day37 | Partition Array Such That Maximum Difference Is K | [LeetCode - Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/description/) | [🔗 Solution](./Day37/solution.py) |
 | Day38 | Minimum Deletions to Make String K-Special | [LeetCode - Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/) | [🔗 Solution](./Day38/solution.py) |
 | Day39 | Sum of k-Mirror Numbers | [LeetCode - Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | [🔗 Solution](./Day39/solution.py) |
-| Day39 | Find All K-Distant Indices in an Array | [LeetCode - Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | [🔗 Solution](./Day40/solution.py) |
+| Day40 | Find All K-Distant Indices in an Array | [LeetCode - Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | [🔗 Solution](./Day40/solution.py) |
+| Day41 | Kth Smallest Product of Two Sorted Arrays | [LeetCode - Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/) | [🔗 Solution](./Day41/solution.py) |
 > ✅ Table will grow daily!
 
 ---
