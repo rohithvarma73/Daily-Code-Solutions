@@ -82,7 +82,8 @@ Each folder contains:
 | Day39 | Sum of k-Mirror Numbers | [LeetCode - Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/description/) | [🔗 Solution](./Day39/solution.py) |
 | Day40 | Find All K-Distant Indices in an Array | [LeetCode - Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/description/) | [🔗 Solution](./Day40/solution.py) |
 | Day41 | Kth Smallest Product of Two Sorted Arrays | [LeetCode - Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/) | [🔗 Solution](./Day41/solution.py) |
-| Day42 | Longest Binary Subsequence Less Than or Equal to K | [LeetCode - Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) | [🔗 Solution](./Day41/solution.py) |
+| Day42 | Longest Binary Subsequence Less Than or Equal to K | [LeetCode - Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) | [🔗 Solution](./Day42/solution.py) |
+| Day43 | Longest Subsequence Repeated k Times | [LeetCode - Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | [🔗 Solution](./Day43/solution.py) |
 > ✅ Table will grow daily!
 
 ---
