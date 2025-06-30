@@ -85,6 +85,7 @@ Each folder contains:
 | Day42 | Longest Binary Subsequence Less Than or Equal to K | [LeetCode - Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/) | [🔗 Solution](./Day42/solution.py) |
 | Day43 | Longest Subsequence Repeated k Times | [LeetCode - Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | [🔗 Solution](./Day43/solution.py) |
 | Day44 | Find Subsequence of Length K With the Largest Sum | [LeetCode - Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/) | [🔗 Solution](./Day44/solution.py) |
+| Day45 | Longest Harmonious Subsequence | [LeetCode - Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [🔗 Solution](./Day45/solution.py) |
 > ✅ Table will grow daily!
 
 ---
