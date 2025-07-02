@@ -86,7 +86,7 @@ Each folder contains:
 | Day43 | Longest Subsequence Repeated k Times | [LeetCode - Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/description/) | [🔗 Solution](./Day43/solution.py) |
 | Day44 | Find Subsequence of Length K With the Largest Sum | [LeetCode - Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/) | [🔗 Solution](./Day44/solution.py) |
 | Day45 | Longest Harmonious Subsequence | [LeetCode - Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | [🔗 Solution](./Day45/solution.py) |
-| Day45 | Find the Original Typed String I | [LeetCode - Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/) | [🔗 Solution](./Day46/solution.py) |
+| Day46 | Find the Original Typed String I | [LeetCode - Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/) | [🔗 Solution](./Day46/solution.py) |
 > ✅ Table will grow daily!
 
 ---
