@@ -89,7 +89,7 @@ Each folder contains:
 | Day46 | Find the Original Typed String I | [LeetCode - Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/) | [🔗 Solution](./Day46/solution.py) |
 | Day47 | Find the K-th Character in String Game I | [LeetCode - Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/) | [🔗 Solution](./Day47/solution.py) |
 | Day48 | Find Lucky Integer in an Array | [LeetCode -Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | [🔗 Solution](./Day48/solution.py) |
-| Day49 | Finding Pairs With a Certain Sum | [LeetCode -Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | [🔗 Solution](./Day48/solution.py) |
+| Day49 | Finding Pairs With a Certain Sum | [LeetCode -Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | [🔗 Solution](./Day49/solution.py) |
 > ✅ Table will grow daily!
 
 ---
