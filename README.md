@@ -90,6 +90,7 @@ Each folder contains:
 | Day47 | Find the K-th Character in String Game I | [LeetCode - Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/) | [🔗 Solution](./Day47/solution.py) |
 | Day48 | Find Lucky Integer in an Array | [LeetCode -Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | [🔗 Solution](./Day48/solution.py) |
 | Day49 | Finding Pairs With a Certain Sum | [LeetCode -Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | [🔗 Solution](./Day49/solution.py) |
+| Day50 | Maximum Number of Events That Can Be Attended | [LeetCode -Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) | [🔗 Solution](./Day50/solution.py) |
 > ✅ Table will grow daily!
 
 ---
