@@ -91,7 +91,8 @@ Each folder contains:
 | Day48 | Find Lucky Integer in an Array | [LeetCode -Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | [🔗 Solution](./Day48/solution.py) |
 | Day49 | Finding Pairs With a Certain Sum | [LeetCode -Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/) | [🔗 Solution](./Day49/solution.py) |
 | Day50 | Maximum Number of Events That Can Be Attended | [LeetCode -Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) | [🔗 Solution](./Day50/solution.py) |
-| Day51 |  Maximum Number of Events That Can Be Attended II| [LeetCode -Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [🔗 Solution](./Day50/solution.py) |
+| Day51 |  Maximum Number of Events That Can Be Attended II| [LeetCode -Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [🔗 Solution](./Day51/solution.py) |
+| Day52 |  Reschedule Meetings for Maximum Free Time I| [LeetCode -Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/) | [🔗 Solution](./Day52/solution.py) |
 > ✅ Table will grow daily!
 
 ---
