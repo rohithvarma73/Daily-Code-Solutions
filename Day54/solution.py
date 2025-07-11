@@ -35,6 +35,7 @@ class Solution:
       
         # Find the room with the most meetings booked
         most_booked_room = 0
+        
         for i, count in enumerate(meeting_count):
             if meeting_count[most_booked_room] < count:
                 most_booked_room = i
