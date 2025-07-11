@@ -94,6 +94,7 @@ Each folder contains:
 | Day51 |  Maximum Number of Events That Can Be Attended II| [LeetCode -Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/description/) | [🔗 Solution](./Day51/solution.py) |
 | Day52 |  Reschedule Meetings for Maximum Free Time I| [LeetCode -Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/) | [🔗 Solution](./Day52/solution.py) |
 | Day53 |  Reschedule Meetings for Maximum Free Time II| [LeetCode -Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/) | [🔗 Solution](./Day53/solution.py) |
+| Day54 |  Meeting Rooms III| [LeetCode -Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/) | [🔗 Solution](./Day54/solution.py) |
 > ✅ Table will grow daily!
 
 ---
