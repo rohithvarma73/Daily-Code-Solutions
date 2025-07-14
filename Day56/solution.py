@@ -6,6 +6,7 @@ class ListNode:
 
 class Solution:
     def getDecimalValue(self, head: ListNode) -> int:
+        
         # Initialize the result variable to 0.
         result = 0
       
