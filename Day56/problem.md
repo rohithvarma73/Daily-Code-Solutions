@@ -1,4 +1,4 @@
-# Day55 Convert Binary Number in a Linked List to Integer
+# Day56 Convert Binary Number in a Linked List to Integer
 
 ## Problem Statement
 
