@@ -96,7 +96,7 @@ Each folder contains:
 | Day53 |  Reschedule Meetings for Maximum Free Time II| [LeetCode -Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/description/) | [🔗 Solution](./Day53/solution.py) |
 | Day54 |  Meeting Rooms III| [LeetCode -Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/) | [🔗 Solution](./Day54/solution.py) |
 | Day55 | Maximum Matching of Players With Trainers | [LeetCode - Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/) | [🔗 Solution](./Day55/solution.py) |
-| Day56 | Convert Binary Number in a Linked List to Integer | [LeetCode - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [🔗 Solution](./Day56/solution.py) |
+| Day57 | Valid World | [LeetCode - Valid World](https://leetcode.com/problems/valid-word/description/) | [🔗 Solution](./Day57/solution.py) |
 > ✅ Table will grow daily!
 
 ---
