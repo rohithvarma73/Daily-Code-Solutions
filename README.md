@@ -99,6 +99,7 @@ Each folder contains:
 | Day56 | Convert Binary Number in a Linked List to Integer | [LeetCode - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [🔗 Solution](./Day56/solution.py) |
 | Day57 | Valid World | [LeetCode - Valid World](https://leetcode.com/problems/valid-word/description/) | [🔗 Solution](./Day57/solution.py) |
 | Day58 | Find the Maximum Length of Valid Subsequence I | [LeetCode - Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) | [🔗 Solution](./Day58/solution.py) |
+| Day59 | Find the Maximum Length of Valid Subsequence II | [LeetCode - Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/) | [🔗 Solution](./Day59/solution.py) |
 > ✅ Table will grow daily!
 
 ---
