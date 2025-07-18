@@ -34,4 +34,5 @@ class Solution:
         for i in range(one_third_length, one_third_length * 2 + 1):
             min_difference = min(min_difference, prefix_sums[i] - suffix_sums[i + 1])  # Compare and store the minimum
       
+        # Return the minimum difference found
         return min_difference
