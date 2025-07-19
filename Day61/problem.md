@@ -74,3 +74,5 @@ folder = ["/a/b/c","/a/b/ca","/a/b/d"]
 - `folder[i]` contains only lowercase letters and `'/'`.
 - `folder[i]` always starts with the character `'/'`.
 - Each folder name is unique.
+
+---
