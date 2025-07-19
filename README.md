@@ -101,6 +101,7 @@ Each folder contains:
 | Day58 | Find the Maximum Length of Valid Subsequence I | [LeetCode - Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) | [🔗 Solution](./Day58/solution.py) |
 | Day59 | Find the Maximum Length of Valid Subsequence II | [LeetCode - Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/) | [🔗 Solution](./Day59/solution.py) |
 | Day60 | Minimum Difference in Sums After Removal of Elements | [LeetCode - Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/) | [🔗 Solution](./Day60/solution.py) |
+| Day61 | Remove Sub-Folders from the Filesystem | [LeetCode - Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/) | [🔗 Solution](./Day61/solution.py) |
 > ✅ Table will grow daily!
 
 ---
