@@ -105,6 +105,7 @@ Each folder contains:
 | Day62 | Delete Duplicate Folders in System | [LeetCode - Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/description/) | [🔗 Solution](./Day62/solution.py) |
 | Day63 | Delete Characters to Make Fancy String | [LeetCode - Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [🔗 Solution](./Day63/solution.py) |
 | Day64 | Maximum Erasure Value | [LeetCode - Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/) | [🔗 Solution](./Day64/solution.py) |
+| Day65 | Maximum Score From Removing Substrings | [LeetCode -Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [🔗 Solution](./Day65/solution.py) |
 > ✅ Table will grow daily!
 
 ---
