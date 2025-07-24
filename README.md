@@ -106,6 +106,7 @@ Each folder contains:
 | Day63 | Delete Characters to Make Fancy String | [LeetCode - Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/) | [🔗 Solution](./Day63/solution.py) |
 | Day64 | Maximum Erasure Value | [LeetCode - Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/) | [🔗 Solution](./Day64/solution.py) |
 | Day65 | Maximum Score From Removing Substrings | [LeetCode -Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/) | [🔗 Solution](./Day65/solution.py) |
+| Day66 | Minimum Score After Removals on a Tree | [LeetCode -Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) | [🔗 Solution](./Day66/solution.py) |
 > ✅ Table will grow daily!
 
 ---
