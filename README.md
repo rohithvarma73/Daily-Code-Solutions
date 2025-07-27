@@ -109,6 +109,7 @@ Each folder contains:
 | Day66 | Minimum Score After Removals on a Tree | [LeetCode -Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/) | [🔗 Solution](./Day66/solution.py) |
 | Day67 | Maximum Unique Subarray Sum After Deletion | [LeetCode -Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) | [🔗 Solution](./Day67/solution.py) |
 | Day68 | Maximize Subarrays After Removing One Conflicting Pair | [LeetCode -Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/) | [🔗 Solution](./Day68/solution.py) |
+| Day69 | Count Hills and Valleys in an Array | [LeetCode -Count Hills and Valleys in an Array](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) |  [🔗 Solution](./Day69/solution.py) |
 > ✅ Table will grow daily!
 
 ---
