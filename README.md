@@ -111,6 +111,7 @@ Each folder contains:
 | Day68 | Maximize Subarrays After Removing One Conflicting Pair | [LeetCode -Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/) | [🔗 Solution](./Day68/solution.py) |
 | Day69 | Count Hills and Valleys in an Array | [LeetCode -Count Hills and Valleys in an Array](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) |  [🔗 Solution](./Day69/solution.py) |
 | Day70 | Count Number of Maximum Bitwise-OR Subsets | [LeetCode -Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) |  [🔗 Solution](./Day70/solution.py) |
+| Day71 | Smallest Subarrays With Maximum Bitwise OR | [LeetCode -Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/) |  [🔗 Solution](./Day71/solution.py) |
 > ✅ Table will grow daily!
 
 ---
