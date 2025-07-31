@@ -113,6 +113,7 @@ Each folder contains:
 | Day70 | Count Number of Maximum Bitwise-OR Subsets | [LeetCode -Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/) |  [🔗 Solution](./Day70/solution.py) |
 | Day71 | Smallest Subarrays With Maximum Bitwise OR | [LeetCode -Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/) |  [🔗 Solution](./Day71/solution.py) |
 | Day72 | Longest Subarray With Maximum Bitwise AND | [LeetCode -Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) |  [🔗 Solution](./Day72/solution.py) |
+| Day73 | Bitwise ORs of Subarrays | [LeetCode -Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |  [🔗 Solution](./Day73/solution.py) |
 > ✅ Table will grow daily!
 
 ---
