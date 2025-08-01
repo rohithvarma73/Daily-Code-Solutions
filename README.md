@@ -114,6 +114,7 @@ Each folder contains:
 | Day71 | Smallest Subarrays With Maximum Bitwise OR | [LeetCode -Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/) |  [🔗 Solution](./Day71/solution.py) |
 | Day72 | Longest Subarray With Maximum Bitwise AND | [LeetCode -Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) |  [🔗 Solution](./Day72/solution.py) |
 | Day73 | Bitwise ORs of Subarrays | [LeetCode -Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |  [🔗 Solution](./Day73/solution.py) |
+| Day74 | Pascal's Triangle | [LeetCode -Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  [🔗 Solution](./Day74/solution.py) |
 > ✅ Table will grow daily!
 
 ---
