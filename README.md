@@ -115,6 +115,7 @@ Each folder contains:
 | Day72 | Longest Subarray With Maximum Bitwise AND | [LeetCode -Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/) |  [🔗 Solution](./Day72/solution.py) |
 | Day73 | Bitwise ORs of Subarrays | [LeetCode -Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |  [🔗 Solution](./Day73/solution.py) |
 | Day74 | Pascal's Triangle | [LeetCode -Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  [🔗 Solution](./Day74/solution.py) |
+| Day75 | Rearranging Fruits | [LeetCode -Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) |  [🔗 Solution](./Day75/solution.py) |
 > ✅ Table will grow daily!
 
 ---
