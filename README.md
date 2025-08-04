@@ -117,6 +117,7 @@ Each folder contains:
 | Day74 | Pascal's Triangle | [LeetCode -Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  [🔗 Solution](./Day74/solution.py) |
 | Day75 | Rearranging Fruits | [LeetCode -Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) |  [🔗 Solution](./Day75/solution.py) |
 | Day76 | Maximum Fruits Harvested After at Most K Steps | [LeetCode -Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/) |  [🔗 Solution](./Day76/solution.py) |
+| Day77 | Fruit Into Baskets | [LeetCode -Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |  [🔗 Solution](./Day77/solution.py) |
 > ✅ Table will grow daily!
 
 ---
