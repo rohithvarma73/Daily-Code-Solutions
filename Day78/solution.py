@@ -15,4 +15,5 @@ class Solution:
                     visited[index] = True  # Mark this basket as used
                     unplaced_count -= 1  # Decrease unplaced fruit count
                     break  # Move to the next fruit once a basket is found
+                
         return unplaced_count  # Return the number of unplaced fruits
