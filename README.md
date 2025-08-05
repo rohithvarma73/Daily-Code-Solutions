@@ -118,6 +118,7 @@ Each folder contains:
 | Day75 | Rearranging Fruits | [LeetCode -Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/description/) |  [🔗 Solution](./Day75/solution.py) |
 | Day76 | Maximum Fruits Harvested After at Most K Steps | [LeetCode -Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/) |  [🔗 Solution](./Day76/solution.py) |
 | Day77 | Fruit Into Baskets | [LeetCode -Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |  [🔗 Solution](./Day77/solution.py) |
+| Day78 | Fruits Into Baskets II  | [LeetCode -Fruits Into Baskets II ](https://leetcode.com/problems/fruits-into-baskets-ii/description/) |  [🔗 Solution](./Day78/solution.py) |
 > ✅ Table will grow daily!
 
 ---
