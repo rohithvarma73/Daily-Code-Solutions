@@ -1,14 +1,9 @@
-# Day 81: Power of Two
+class Solution:
+    def isPowerOfTwo(self, n: int) -> bool:
+        # Check if n is less than or equal to 0; negative numbers and zero are not powers of two
+        if n <= 0:
+            return False
 
-**Difficulty**: Easy  
-**Topics**: Math, Bit Manipulation  
-**Companies**: 🔒 Premium
-
----
-
-## Problem
-
-Given an integer `n`, return **true** if it is a power of two. Otherwise, return **false**.
-
-An integer `n` is a power of two if there exists an integer `x` such that:
-
+        # Use bitwise AND to determine if n has only one bit set.
+        # If n is a power of two, n & (n - 1) will be 0.
+        return (n & (n - 1)) == 0
