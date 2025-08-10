@@ -122,6 +122,7 @@ Each folder contains:
 | Day79 | Fruits Into Baskets III  | [LeetCode -Fruits Into Baskets III ](https://leetcode.com/problems/fruits-into-baskets-iii/description/) |  [🔗 Solution](./Day79/solution.py) |
 | Day80 | Find the Maximum Number of Fruits Collected  | [LeetCode -Find the Maximum Number of Fruits Collected ](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/) |  [🔗 Solution](./Day80/solution.py) |
 | Day81 | Power of Two  | [LeetCode -Power of Two ](https://leetcode.com/problems/power-of-two/description/) |  [🔗 Solution](./Day81/solution.py) |
+| Day82 | Reordered Power of 2  | [LeetCode - Reordered Power of 2 ](https://leetcode.com/problems/reordered-power-of-2/description/) |  [🔗 Solution](./Day82/solution.py) |
 > ✅ Table will grow daily!
 
 ---
