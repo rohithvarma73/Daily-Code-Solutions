@@ -124,6 +124,7 @@ Each folder contains:
 | Day81 | Power of Two  | [LeetCode -Power of Two ](https://leetcode.com/problems/power-of-two/description/) |  [🔗 Solution](./Day81/solution.py) |
 | Day82 | Reordered Power of 2  | [LeetCode - Reordered Power of 2 ](https://leetcode.com/problems/reordered-power-of-2/description/) |  [🔗 Solution](./Day82/solution.py) |
 | Day83 | Range Product Queries of Powers  | [LeetCode - Range Product Queries of Powers ](https://leetcode.com/problems/range-product-queries-of-powers/description/) |  [🔗 Solution](./Day83/solution.py) |
+| Day84 | Ways to Express an Integer as Sum of Powers | [LeetCode - Ways to Express an Integer as Sum of Powers ](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/) |  [🔗 Solution](./Day84/solution.py) |
 > ✅ Table will grow daily!
 
 ---
