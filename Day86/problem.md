@@ -64,3 +64,4 @@ Therefore, there are no good integers.
 ## Constraints
 - `3 <= num.length <= 1000`  
 - `num` only consists of digits  
+
