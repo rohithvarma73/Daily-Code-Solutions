@@ -126,7 +126,8 @@ Each folder contains:
 | Day83 | Range Product Queries of Powers  | [LeetCode - Range Product Queries of Powers ](https://leetcode.com/problems/range-product-queries-of-powers/description/) |  [🔗 Solution](./Day83/solution.py) |
 | Day84 | Ways to Express an Integer as Sum of Powers | [LeetCode - Ways to Express an Integer as Sum of Powers ](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/) |  [🔗 Solution](./Day84/solution.py) |
 | Day85 | Power of Three | [LeetCode - Power of Three ](https://leetcode.com/problems/power-of-three/description/) |  [🔗 Solution](./Day85/solution.py) |
-| Day86 | Largest 3-Same-Digit Number in String | [LeetCode - Largest 3-Same-Digit Number in String ](hhttps://leetcode.com/problems/largest-3-same-digit-number-in-string/description/) | [🔗 Solution](./Day86/solution.py) |
+| Day86 | Largest 3-Same-Digit Number in String | [LeetCode - Largest 3-Same-Digit Number in String ](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/) | [🔗 Solution](./Day86/solution.py) |
+| Day86 | Power of Four | [LeetCode - Power of Four ](https://leetcode.com/problems/power-of-four/description/) | [🔗 Solution](./Day86/solution.py) |
 > ✅ Table will grow daily!
 
 ---
