@@ -129,6 +129,7 @@ Each folder contains:
 | Day86 | Largest 3-Same-Digit Number in String | [LeetCode - Largest 3-Same-Digit Number in String ](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/) | [🔗 Solution](./Day86/solution.py) |
 | Day87 | Power of Four | [LeetCode - Power of Four ](https://leetcode.com/problems/power-of-four/description/) | [🔗 Solution](./Day87/solution.py) |
 | Day88 | Maximum 69 Number | [LeetCode - Maximum 69 Number ](https://leetcode.com/problems/maximum-69-number/description/) | [🔗 Solution](./Day88/solution.py) |
+| Day89 | New 21 Game | [LeetCode - New 21 Game ](https://leetcode.com/problems/new-21-game/description/) | [🔗 Solution](./Day89/solution.py) |
 > ✅ Table will grow daily!
 
 ---
