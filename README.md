@@ -130,6 +130,7 @@ Each folder contains:
 | Day87 | Power of Four | [LeetCode - Power of Four ](https://leetcode.com/problems/power-of-four/description/) | [🔗 Solution](./Day87/solution.py) |
 | Day88 | Maximum 69 Number | [LeetCode - Maximum 69 Number ](https://leetcode.com/problems/maximum-69-number/description/) | [🔗 Solution](./Day88/solution.py) |
 | Day89 | New 21 Game | [LeetCode - New 21 Game ](https://leetcode.com/problems/new-21-game/description/) | [🔗 Solution](./Day89/solution.py) |
+| Day90 | New 24 Game | [LeetCode - New 24 Game ](https://leetcode.com/problems/24-game/description/) | [🔗 Solution](./Day90/solution.py) |
 > ✅ Table will grow daily!
 
 ---
