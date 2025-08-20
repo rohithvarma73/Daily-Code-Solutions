@@ -131,6 +131,7 @@ Each folder contains:
 | Day88 | Maximum 69 Number | [LeetCode - Maximum 69 Number ](https://leetcode.com/problems/maximum-69-number/description/) | [🔗 Solution](./Day88/solution.py) |
 | Day89 | New 21 Game | [LeetCode - New 21 Game ](https://leetcode.com/problems/new-21-game/description/) | [🔗 Solution](./Day89/solution.py) |
 | Day90 | New 24 Game | [LeetCode - New 24 Game ](https://leetcode.com/problems/24-game/description/) | [🔗 Solution](./Day90/solution.py) |
+| Day91 | Count Square Submatrices with All Ones | [LeetCode - Count Square Submatrices with All Ones ](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | [🔗 Solution](./Day91/solution.py) |
 > ✅ Table will grow daily!
 
 ---
