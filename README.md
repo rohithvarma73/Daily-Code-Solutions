@@ -133,6 +133,7 @@ Each folder contains:
 | Day90 | New 24 Game | [LeetCode - New 24 Game ](https://leetcode.com/problems/24-game/description/) | [🔗 Solution](./Day90/solution.py) |
 | Day91 | Count Square Submatrices with All Ones | [LeetCode - Count Square Submatrices with All Ones ](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/) | [🔗 Solution](./Day91/solution.py) |
 | Day92 | Count Submatrices With All Ones | [LeetCode - Count Submatrices With All Ones ](https://leetcode.com/problems/count-submatrices-with-all-ones/description/) | [🔗 Solution](./Day92/solution.py) |
+| Day93 | Find the Minimum Area to Cover All Ones II | [LeetCode - Find the Minimum Area to Cover All Ones II ](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/) | [🔗 Solution](./Day93/solution.py) |
 > ✅ Table will grow daily!
 
 ---
