@@ -1,25 +1,41 @@
 from typing import List
 
 class Solution:
-    def areaOfMaxDiagonal(self, dimensions: List[List[int]]) -> int:
-        # Initialize the maximum diagonal length and area seen so far
-        max_diagonal_length = 0
-        max_area = 0
+    def findDiagonalOrder(self, matrix: List[List[int]]) -> List[int]:
+        # Determine the number of rows and columns in the matrix.
+        num_rows, num_cols = len(matrix), len(matrix[0])
       
-        # Loop through each dimension pair in the dimensions list
-        for length, width in dimensions:
-            # Calculate the diagonal length's square based on Pythagorean theorem
-            diagonal_length_sq = length**2 + width**2
+        # This is the list which will hold the elements in diagonal order.
+        diagonal_order = []
+      
+        # There will be (num_rows + num_cols - 1) diagonals to cover in the matrix.
+        for k in range(num_rows + num_cols - 1):
           
-            # If a new maximum diagonal length is found
-            if diagonal_length_sq > max_diagonal_length:
-                # Update maximum diagonal length and area
-                max_diagonal_length = diagonal_length_sq
-                max_area = length * width
-            # If current diagonal is equal to the maximum found but the area is larger
-            elif diagonal_length_sq == max_diagonal_length:
-                # Update the area to the larger one
-                max_area = max(max_area, length * width)
-              
-        # Return the maximum area corresponding to the largest diagonal length
-        return max_area
+            # Temp list to store the elements of the current diagonal.
+            temp = []
+          
+            # Calculate the starting row index. It is 0 for the first 'num_cols' diagonals,
+            # otherwise we start at an index which goes down from 'num_rows - 1'.
+            row = 0 if k < num_cols else k - num_cols + 1
+          
+            # Calculate the starting column index. It is 'k' for the first 'num_cols' diagonals,
+            # otherwise we start at 'num_cols - 1' and go down.
+            col = k if k < num_cols else num_cols - 1
+          
+            # Fetch the elements along the current diagonal.
+            # Continue while 'row' is within the matrix row range and 'col' is non-negative.
+            while row < num_rows and col >= 0:
+                temp.append(matrix[row][col])
+                row += 1  # Move down to the next row.
+                col -= 1  # Move left to the next column.
+          
+            # Reverse every other diagonal's elements before appending it to the result list
+            # to get the right order.
+            if k % 2 == 0:
+                temp = temp[::-1]
+          
+            # Extend the main result list with the elements of the current diagonal.
+            diagonal_order.extend(temp)
+      
+        # Return the final result list.
+        return diagonal_order
