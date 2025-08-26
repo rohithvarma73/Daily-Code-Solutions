@@ -135,6 +135,7 @@ Each folder contains:
 | Day92 | Count Submatrices With All Ones | [LeetCode - Count Submatrices With All Ones ](https://leetcode.com/problems/count-submatrices-with-all-ones/description/) | [🔗 Solution](./Day92/solution.py) |
 | Day93 | Find the Minimum Area to Cover All Ones II | [LeetCode - Find the Minimum Area to Cover All Ones II ](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/) | [🔗 Solution](./Day93/solution.py) |
 | Day94 | Longest Subarray of 1's After Deleting One Element | [LeetCode - Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [🔗 Solution](./Day94/solution.py) |
+| Day95 | Maximum Area of Longest Diagonal Rectangle | [LeetCode - Maximum Area of Longest Diagonal Rectangle ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day95/solution.py) |
 > ✅ Table will grow daily!
 
 ---
