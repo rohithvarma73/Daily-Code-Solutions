@@ -26,8 +26,10 @@ class Solution:
             # Continue while 'row' is within the matrix row range and 'col' is non-negative.
             while row < num_rows and col >= 0:
                 temp.append(matrix[row][col])
-                row += 1  # Move down to the next row.
-                col -= 1  # Move left to the next column.
+                row += 1  
+                # Move down to the next row.
+                col -= 1  
+                # Move left to the next column.
           
             # Reverse every other diagonal's elements before appending it to the result list
             # to get the right order.
