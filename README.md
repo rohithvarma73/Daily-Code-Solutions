@@ -137,6 +137,8 @@ Each folder contains:
 | Day94 | Longest Subarray of 1's After Deleting One Element | [LeetCode - Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [🔗 Solution](./Day94/solution.py) |
 | Day95 | Diagonal Traverse | [LeetCode - Diagonal Traverse ](https://leetcode.com/problems/diagonal-traverse/description/) | [🔗 Solution](./Day95/solution.py) |
 | Day96 | Maximum Area of Longest Diagonal Rectangle | [LeetCode - Maximum Area of Longest Diagonal Rectangle ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day96/solution.py) |
+| Day97 | Length of Longest V-Shaped Diagonal Segment | [LeetCode - Length of Longest V-Shaped Diagonal Segment ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day97/solution.py) |
+
 > ✅ Table will grow daily!
 
 ---
