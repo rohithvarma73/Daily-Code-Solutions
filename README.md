@@ -138,6 +138,7 @@ Each folder contains:
 | Day95 | Diagonal Traverse | [LeetCode - Diagonal Traverse ](https://leetcode.com/problems/diagonal-traverse/description/) | [🔗 Solution](./Day95/solution.py) |
 | Day96 | Maximum Area of Longest Diagonal Rectangle | [LeetCode - Maximum Area of Longest Diagonal Rectangle ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day96/solution.py) |
 | Day97 | Length of Longest V-Shaped Diagonal Segment | [LeetCode - Length of Longest V-Shaped Diagonal Segment ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day97/solution.py) |
+| Day98 | Sort Matrix by Diagonals | [LeetCode - Sort Matrix by Diagonals ](https://leetcode.com/problems/sort-matrix-by-diagonals/description/) | [🔗 Solution](./Day98/solution.py) |
 
 > ✅ Table will grow daily!
 
