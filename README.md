@@ -140,6 +140,7 @@ Each folder contains:
 | Day97 | Length of Longest V-Shaped Diagonal Segment | [LeetCode - Length of Longest V-Shaped Diagonal Segment ](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/) | [🔗 Solution](./Day97/solution.py) |
 | Day98 | Sort Matrix by Diagonals | [LeetCode - Sort Matrix by Diagonals ](https://leetcode.com/problems/sort-matrix-by-diagonals/description/) | [🔗 Solution](./Day98/solution.py) |
 | Day99 | Alice and Bob Playing Flower Game | [LeetCode - Alice and Bob Playing Flower Game ](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | [🔗 Solution](./Day99/solution.py) |
+| Day100 | Valid Sudoku | [LeetCode - Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | [🔗 Solution](./Day100/solution.py) |
 
 > ✅ Table will grow daily!
 
