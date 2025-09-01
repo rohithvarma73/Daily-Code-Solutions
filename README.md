@@ -141,6 +141,7 @@ Each folder contains:
 | Day98 | Sort Matrix by Diagonals | [LeetCode - Sort Matrix by Diagonals ](https://leetcode.com/problems/sort-matrix-by-diagonals/description/) | [🔗 Solution](./Day98/solution.py) |
 | Day99 | Alice and Bob Playing Flower Game | [LeetCode - Alice and Bob Playing Flower Game ](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | [🔗 Solution](./Day99/solution.py) |
 | Day100 | Valid Sudoku | [LeetCode - Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | [🔗 Solution](./Day100/solution.py) |
+| Day101 | Maximum Average Pass Ratio | [LeetCode - Maximum Average Pass Ratio ](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [🔗 Solution](./Day101/solution.py) |
 
 > ✅ Table will grow daily!
 
