@@ -142,6 +142,7 @@ Each folder contains:
 | Day99 | Alice and Bob Playing Flower Game | [LeetCode - Alice and Bob Playing Flower Game ](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/) | [🔗 Solution](./Day99/solution.py) |
 | Day100 | Valid Sudoku | [LeetCode - Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | [🔗 Solution](./Day100/solution.py) |
 | Day101 | Maximum Average Pass Ratio | [LeetCode - Maximum Average Pass Ratio ](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [🔗 Solution](./Day101/solution.py) |
+| Day102 | Find the Number of Ways to Place People I | [LeetCode - Find the Number of Ways to Place People I ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [🔗 Solution](./Day102/solution.py) |
 
 > ✅ Table will grow daily!
 
