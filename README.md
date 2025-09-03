@@ -143,7 +143,7 @@ Each folder contains:
 | Day100 | Valid Sudoku | [LeetCode - Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/) | [🔗 Solution](./Day100/solution.py) |
 | Day101 | Maximum Average Pass Ratio | [LeetCode - Maximum Average Pass Ratio ](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [🔗 Solution](./Day101/solution.py) |
 | Day102 | Find the Number of Ways to Place People I | [LeetCode - Find the Number of Ways to Place People I ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [🔗 Solution](./Day102/solution.py) |
-
+| Day103 | Find the Number of Ways to Place People II | [LeetCode - Find the Number of Ways to Place People II ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [🔗 Solution](./Day103/solution.py) |
 > ✅ Table will grow daily!
 
 ---
