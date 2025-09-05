@@ -144,6 +144,7 @@ Each folder contains:
 | Day101 | Maximum Average Pass Ratio | [LeetCode - Maximum Average Pass Ratio ](https://leetcode.com/problems/maximum-average-pass-ratio/description/) | [🔗 Solution](./Day101/solution.py) |
 | Day102 | Find the Number of Ways to Place People I | [LeetCode - Find the Number of Ways to Place People I ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/) | [🔗 Solution](./Day102/solution.py) |
 | Day103 | Find the Number of Ways to Place People II | [LeetCode - Find the Number of Ways to Place People II ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [🔗 Solution](./Day103/solution.py) |
+| Day104 | Minimum Operations to Make the Integer Zero | [LeetCode - Minimum Operations to Make the Integer Zero ](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | [🔗 Solution](./Day104/solution.py) |
 > ✅ Table will grow daily!
 
 ---
