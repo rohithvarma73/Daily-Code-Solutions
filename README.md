@@ -146,6 +146,7 @@ Each folder contains:
 | Day103 | Find the Number of Ways to Place People II | [LeetCode - Find the Number of Ways to Place People II ](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/) | [🔗 Solution](./Day103/solution.py) |
 | Day104 | Minimum Operations to Make the Integer Zero | [LeetCode - Minimum Operations to Make the Integer Zero ](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/) | [🔗 Solution](./Day104/solution.py) |
 | Day105 |  Minimum Operations to Make Array Elements Zero | [LeetCode -  Minimum Operations to Make Array Elements Zero ](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/) | [🔗 Solution](./Day105/solution.py) |
+| Day106 | | Day105 |  Minimum Operations to Make Array Elements Zero | [LeetCode -  Minimum Operations to Make Array Elements Zero ](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/) | [🔗 Solution](./Day105/solution.py) | | [LeetCode -  | Day105 |  Minimum Operations to Make Array Elements Zero | [LeetCode -  Minimum Operations to Make Array Elements Zero ](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/) | [🔗 Solution](./Day105/solution.py) | ](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [🔗 Solution](./Day106/solution.py) |
 > ✅ Table will grow daily!
 
 ---
