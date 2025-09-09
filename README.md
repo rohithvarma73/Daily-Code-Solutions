@@ -148,6 +148,7 @@ Each folder contains:
 | Day105 |  Minimum Operations to Make Array Elements Zero | [LeetCode -  Minimum Operations to Make Array Elements Zero ](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/) | [🔗 Solution](./Day105/solution.py) |
 | Day106 |  Find N Unique Integers Sum up to Zero | [LeetCode -  Find N Unique Integers Sum up to Zero ](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/) | [🔗 Solution](./Day106/solution.py) |
 | Day107 |  Convert Integer to the Sum of Two No-Zero Integers | [LeetCode - Convert Integer to the Sum of Two No-Zero Integers ](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/) | [🔗 Solution](./Day107/solution.py) |
+| Day108 | Number of People Aware of a Secret | [LeetCode - Number of People Aware of a Secret ](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/) | [🔗 Solution](./Day108/solution.py) |
 
 > ✅ Table will grow daily!
 
