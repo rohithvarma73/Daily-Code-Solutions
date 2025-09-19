@@ -152,7 +152,7 @@ Each folder contains:
 | Day109 | Sort Vowels in a String | [LeetCode - Sort Vowels in a String ](https://leetcode.com/problems/sort-vowels-in-a-string/description/) | [🔗 Solution](./Day109/solution.py) |
 | Day110 | Vowel Spellchecker | [LeetCode - Vowel Spellchecker ](https://leetcode.com/problems/vowel-spellchecker/description/) | [🔗 Solution](./Day110/solution.py) |
 | Day111 | Replace Non Coprime Numbers in Array | [LeetCode - Replace Non Coprime Numbers in Array ](https://leetcode.com/problems/vowel-spellchecker/description/) | [🔗 Solution](./Day111/solution.py) |
-
+| Day112 | Design Spreadsheet | [LeetCode - Design Spreadsheet ](https://leetcode.com/problems/design-spreadsheet/description/) | [🔗 Solution](./Day112/solution.py) |
 > ✅ Table will grow daily!
 
 ---
