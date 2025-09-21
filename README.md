@@ -154,7 +154,7 @@ Each folder contains:
 | Day111 | Replace Non Coprime Numbers in Array | [LeetCode - Replace Non Coprime Numbers in Array ](https://leetcode.com/problems/vowel-spellchecker/description/) | [🔗 Solution](./Day111/solution.py) |
 | Day112 | Design Spreadsheet | [LeetCode - Design Spreadsheet ](https://leetcode.com/problems/design-spreadsheet/description/) | [🔗 Solution](./Day112/solution.py) |
 | Day113 | Implement Router | [LeetCode - Implement Router ](https://leetcode.com/problems/implement-router/description/) | [🔗 Solution](./Day113/solution.py) |
-| Day114 | Design Movie Rental System | [LeetCode - Design Movie Rental System ](https://leetcode.com/problems/design-movie-rental-system/description/) | [🔗 Solution](./Day114/solution.py) |
+| Day114 | Design Movie Rental System | [LeetCode - Design Movie Rental System ]( https://leetcode.com/problems/design-movie-rental-system/description/) | [🔗 Solution](./Day114/solution.py) |
 > ✅ Table will grow daily!
 
 ---
