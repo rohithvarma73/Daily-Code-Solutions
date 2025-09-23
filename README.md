@@ -156,6 +156,7 @@ Each folder contains:
 | Day113 | Implement Router | [LeetCode - Implement Router ](https://leetcode.com/problems/implement-router/description/) | [🔗 Solution](./Day113/solution.py) |
 | Day114 | Design Movie Rental System | [LeetCode - Design Movie Rental System ]( https://leetcode.com/problems/design-movie-rental-system/description/) | [🔗 Solution](./Day114/solution.py) |
 | Day115 | Count Elements With Maximum Frequency | [LeetCode - Count Elements With Maximum Frequency ](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/) | [🔗 Solution](./Day115/solution.py) |
+| Day116 | Compare Version Numbers | [LeetCode - Compare Version Numbers ](https://leetcode.com/problems/compare-version-numbers/description/) | [🔗 Solution](./Day116/solution.py) |
 > ✅ Table will grow daily!
 
 ---
